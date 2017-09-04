@@ -1,7 +1,7 @@
 <?xml version="1.1" encoding="UTF-8" standalone="yes"?>
 <Config>
-<version>
-<new>1.0</new>
-<url>https://raw.githubusercontent.com/dcc0904/Convert/master/dependencies.apk</url>
-</version>
+  <version>
+    <new>1.0</new>
+      <url>https://raw.githubusercontent.com/dcc0904/Convert/master/dependencies.apk</url>
+  </version>
 </Config>
